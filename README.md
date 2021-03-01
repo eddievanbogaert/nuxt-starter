@@ -1,6 +1,16 @@
 # nuxt-starter
 
-## Build Setup
+## Configuration
+
+`nuxt-starter` makes the following choices:
+
+* *Application Framework:* [**Nuxt**](https://nuxtjs.org/)
+* *Presentation Framework:* [**Bootstrap Vue**](https://bootstrap-vue.org/)
+* *CSS Pre-Processor:* [**Sass**](https://sass-lang.com/)
+* *Unit Testing Framework:* [**Jest**](https://jestjs.io/)
+* *Source Linting:* [**ESLint**](https://eslint.org/)
+
+## Quickstart
 
 ```bash
 # install dependencies
